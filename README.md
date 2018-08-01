@@ -1,2 +1,3 @@
 # image-splicing-localization
-image splicing locailzation using CNN
+We address the problem of ***image splicing localization***: given an input image, localizing the spliced region which is cut from another image. We formulate this as a classification task but, critically, instead of classifying the spliced region by local patch, we leverage the features from whole image and local patch together to classify patch. We call this structure Semi-Global Network. Our approach exploits the observation that the spliced region should not only highly relate to local features (spliced edges), but also global features (semantic information, illumination, etc.) from the whole image. Furthermore, we first integrate Fully Connected Conditional Random Fields as post-processing technique in image splicing to improve the consistency between the input image and the output of the network. We show that our method outperforms other state-of-the-art methods in three popular datasets. 
+
