@@ -67,9 +67,7 @@ Here we show some sample results of our methods, from the left to right are the 
 ![image](https://user-images.githubusercontent.com/4397546/43671725-4487e1fa-97da-11e8-8dad-e083ed1a9181.png)
 
 Here are the label loss, segmentation loss, label accuracy, segmentation accuracy on validation set:
-https://user-images.githubusercontent.com/4397546/43671741-a03c7e20-97da-11e8-86b4-c6df5cb1b3c1.png
-
-
+![image](https://user-images.githubusercontent.com/4397546/43671741-a03c7e20-97da-11e8-86b4-c6df5cb1b3c1.png)
 
 
 
