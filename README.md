@@ -1,4 +1,6 @@
-# Image Splicing Localization Using CNN [ this repo is part of project in Asia University Machine Learning Camp 2018]
+# Image Splicing Localization Using CNN 
+
+> this repo is part of project in Asia University Machine Learning Camp 2018
 
 
 ## What is Image Splicing
