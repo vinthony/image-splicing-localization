@@ -1,4 +1,4 @@
-# Image Splicing Localization Using CNN
+# Image Splicing Localization Using CNN [ this repo is part of project in Asia University Machine Learning Camp 2018]
 
 
 ## What is Image Splicing
@@ -70,6 +70,8 @@ Here are the label loss, segmentation loss, label accuracy, segmentation accurac
 ![image](https://user-images.githubusercontent.com/4397546/43671741-a03c7e20-97da-11e8-86b4-c6df5cb1b3c1.png)
 
 
+## Acknowledgements
 
+This work is partially support by Jeju National University and JDC (Jeju Free International City Development Center).
 
 
