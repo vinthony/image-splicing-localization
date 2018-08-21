@@ -2,6 +2,7 @@
 
 > This repo is part of project in Asia University Machine Learning Camp 2018
 
+This repo is part of the code in paper "Image splicing localzation via semi-global network and fully connected conditional random fields",accepted by Eccv Workshop 2018
 
 ## What is Image Splicing
 
