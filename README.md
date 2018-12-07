@@ -20,7 +20,7 @@ As shown in bottom figure, We address the problem of ***image splicing localizat
 ## Installation
 
 * Python 3.6
-* PyTorch 0.3
+* PyTorch 0.4
 
 You need to install the requirements by follow command firstly:
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 We use [Columbia Dataset](http://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/dlform.html) for training and testing. We Split all the spliced images(in subfolder `4cam_splc`) as three folds. Training(65%), validation(15%), testing(25%). For training faster, we firstly made patches dataset offline:
 
 ```shell
-python tools/make_columbia_dataset /path/to/dataset
+python tools/make_dataset_columbia /path/to/dataset
 ```
 This script will generate image paches and resized full image for training and testing. So we have dataset: 
 
